@@ -1,6 +1,6 @@
 # Work Day Schedule
 
-## Your Task
+## My Task
 I created this website to provide a reliable color coordinated work day separated by past, present and future; interactive scheduler that allows you to interact with it throughout your workday as well as add additional activities that will be saved in a local storage whether the website fails maintain an internet connection. Once reobtained the activities scheduled will still be present within the local storage!!
 
 ## Installation
